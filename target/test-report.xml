@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="20.876238">
+<testcase classname="Authentification" name="Authentification avec e-mail valide et mot de passe non valide" time="20.876238">
+<system-out><![CDATA[Given Acceder a URL du site web legalife....................................passed
+When Cliquer sur le bouton Connection.......................................passed
+When Saisir un email valide dans l icone indiquant  Votre email.............passed
+When Saisir un mot de passe non valide dans l icone indiquant Votre mot de passe.passed
+When Cliquer sur le bouton CONNECTION.......................................passed
+Then Affichage d un message Mot de passe incorrect..........................passed
+]]></system-out>
+</testcase>
+</testsuite>
